@@ -1,7 +1,8 @@
 ---
 title: "Workflow Context Parameter"
-parent: "workflows"
-menu_order: 10
+url: /studio/workflowsparameter/
+category: "Workflows"
+weight: 10
 tags: ["workflow", "workflows", "workflow context", "parameter"]
 ---
 
